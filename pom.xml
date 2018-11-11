@@ -24,9 +24,10 @@
 	
   <dependencies>
     <dependency>
-      <groupId>com.eurodyn.qlack2.be</groupId>
-      <artifactId>qlack2-be-forms-orbeon-rest</artifactId>
-      <version>3.8</version>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpclient</artifactId>
+    <version>4.3.1</version>
     </dependency>
+
   </dependencies>
 </project>

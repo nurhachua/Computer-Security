@@ -24,9 +24,9 @@
 	
   <dependencies>
     <dependency>
-      <groupId>org.apache.struts</groupId>
-      <artifactId>struts2-core</artifactId>
-      <version>2.3.0</version>
+      <groupId>com.eurodyn.qlack2.be</groupId>
+      <artifactId>qlack2-be-forms-orbeon-rest</artifactId>
+      <version>3.8</version>
     </dependency>
   </dependencies>
 </project>

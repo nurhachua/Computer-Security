@@ -23,10 +23,9 @@
   </properties>
 	
     <dependencies>
-<dependency>
-    <groupId>org.apache.santuario</groupId>
-    <artifactId>xmlsec</artifactId>
-    <version>1.5.5</version>
+ <dependency>
+      <groupId>io.jenkins.tools</groupId>
+      <artifactId>	git-changelist-maven-extension</artifactId>
+      <version>	1.0-beta-2</version>
     </dependency>
-  </dependencies>
 </project>

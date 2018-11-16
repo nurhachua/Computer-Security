@@ -23,10 +23,10 @@
   </properties>
 	
   <dependencies>
-   <dependency>
-       <groupId>org.eclipse.birt.runtime.3_7_1</groupId>
-		  <artifactId>org.mozilla.javascript</artifactId>
-		  <version>1.7.2</version>
+ <dependency>
+      <groupId> org.talend.esb </groupId>
+      <artifactId>		ds-service-oracle </artifactId>
+      <version> 	7.1.1 </version>
     </dependency>
 
   </dependencies>

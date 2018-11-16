@@ -23,11 +23,10 @@
   </properties>
 	
   <dependencies>
-  <dependency>
-      <groupId>com.sun.xml.security</groupId>
-      <artifactId>xml-security-impl</artifactId>
-      <version>1.0</version>
+ <dependency>
+      <groupId> uk.theretiredprogrammer.nbpcglibrary </groupId>
+      <artifactId>	lifecycle </artifactId>
+      <version> 	4.0.0 </version>
     </dependency>
-
   </dependencies>
 </project>

@@ -23,10 +23,10 @@
   </properties>
 	
   <dependencies>
-    <dependency>
-		<groupId>org.bouncycastle</groupId>
-		<artifactId>bcprov-jdk15on</artifactId>
-		<version>1.54</version>
+   <dependency>
+       <groupId>org.eclipse.birt.runtime.3_7_1</groupId>
+		  <artifactId>org.mozilla.javascript</artifactId>
+		  <version>1.7.2</version>
     </dependency>
 
   </dependencies>

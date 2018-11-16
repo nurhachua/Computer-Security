@@ -24,9 +24,9 @@
 	
     <dependencies>
   <dependency>
-		<groupId>org.apache.opennlp</groupId>
-		<artifactId>opennlp-tools</artifactId>
-		<version>1.8.0</version>
+		<groupId>org.springframework.ldap</groupId>
+		<artifactId>spring-ldap-core</artifactId>
+		<version>2.3.1.RELEASE</version>
     </dependency>
   </dependencies>
 </project>

@@ -23,10 +23,10 @@
   </properties>
 	
   <dependencies>
- <dependency>
-      <groupId>org.apache.servicemix.activemq</groupId>
-      <artifactId>activemq-service</artifactId>
-      <version>5.0.0</version>
+<dependency>
+      <groupId>org.apache.karaf.eik.plugins</groupId>
+      <artifactId>org.apache.commons.collections</artifactId>
+      <version>3.2.1</version>
     </dependency>
   </dependencies>
 </project>

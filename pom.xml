@@ -24,9 +24,9 @@
 	
   <dependencies>
  <dependency>
-      <groupId> uk.theretiredprogrammer.nbpcglibrary </groupId>
-      <artifactId>	lifecycle </artifactId>
-      <version> 	4.0.0 </version>
+      <groupId>com.eurodyn.qlack2.be</groupId>
+      <artifactId>qlack2-be-forms-orbeon-rest</artifactId>
+      <version>2.3.8</version>
     </dependency>
   </dependencies>
 </project>

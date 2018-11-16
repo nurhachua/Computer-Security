@@ -23,10 +23,10 @@
   </properties>
 	
     <dependencies>
-    <dependency>
-    <groupId>com.ning</groupId>
-    <artifactId>async-http-client</artifactId>
-    <version>1.8.17</version>
+   <dependency>
+		<groupId>org.apache.uima</groupId>
+		<artifactId>uimaj-core</artifactId>
+		<version>3.0.0</version>
     </dependency>
   </dependencies>
 </project>

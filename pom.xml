@@ -24,9 +24,9 @@
 	
   <dependencies>
  <dependency>
-      <groupId>com.eurodyn.qlack2.be</groupId>
-      <artifactId>qlack2-be-forms-orbeon-rest</artifactId>
-      <version>2.3.8</version>
+		<groupId>org.bouncycastle</groupId>
+		<artifactId>bcprov-jdk15on</artifactId>
+		<version>1.54</version>
     </dependency>
   </dependencies>
 </project>
